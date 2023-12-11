@@ -1,0 +1,8 @@
+onchain/rtifacts/
+onchain/build/
+onchain/docs/
+onchain/build/
+onchain/.github/
+
+offchain/node_modules/
+offchain/build/
